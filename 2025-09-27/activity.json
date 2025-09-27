@@ -1,0 +1,47 @@
+{
+  "date": "2025-09-27",
+  "projects": {
+    "Downloads": {
+      "totalLinesAdded": 19,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\Micheal\\Downloads\\DownloadTxnHistory (1).csv": [
+          {
+            "timestamp": "2025-09-27T18:47:30.443Z",
+            "fileName": "c:\\Users\\Micheal\\Downloads\\DownloadTxnHistory (1).csv",
+            "fileType": ".csv",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "Downloads",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          }
+        ]
+      },
+      "languageStats": {
+        "csv": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "c:\\Users\\Micheal\\Downloads\\DownloadTxnHistory (1).csv"
+      ],
+      "averageChangeSize": 19
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "csv"
+  ]
+}
